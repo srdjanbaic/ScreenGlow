@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=ScreenGlow
+Comment=Screen recorder with cursor highlight
+Exec=screenglow
+Icon=screenglow
+Terminal=false
+Type=Application
+Categories=AudioVideo;Video;
+StartupNotify=true
